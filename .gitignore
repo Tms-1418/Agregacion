@@ -1,0 +1,17 @@
+# Compiled Java files
+bin/
+*.class
+
+# VS Code local files
+.vscode/*
+!.vscode/settings.json
+!.vscode/launch.json
+!.vscode/tasks.json
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
