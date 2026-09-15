@@ -42,14 +42,15 @@ public class Biblioteca {
         boolean encontrado = false;
 
         for (int i = 0; i < cantidad; i++) {
-            if(catalogo[i].getAutor().equalsIgnoreCase(autor)){
-            System.out.println("  - " + catalogo[i].getTitulo());
-            encontrado = true;
+            if (catalogo[i].getAutor().equalsIgnoreCase(autor)) {
+                System.out.println("  - " + catalogo[i].getTitulo());
+                encontrado = true;
+            }
         }
+
+        if (!encontrado) {
+            System.out.println("No se encontraron libros de ese autor.");
         }
-    if(!encontrado){
-        System.out.println("No se encontraron libros de ese autor.");
     }
-
-
 }
+
