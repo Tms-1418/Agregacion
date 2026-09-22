@@ -1,3 +1,5 @@
-Tomás David Torres Morales 
-20251020167
-ING Sistemas 
+﻿# Proyecto Agregación 
+
+- **Nombre:** Tomás Torres Morales
+- **Fecha:** 11 de septiembre
+- **Carrera:** Ingeniería de sistemas
