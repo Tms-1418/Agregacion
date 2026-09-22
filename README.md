@@ -1,5 +1,5 @@
 ﻿# Proyecto Agregación 
 
 - **Nombre:** Tomás Torres Morales
-- **Fecha:** 11 de septiembre
+ Jose Miguel Bueno Martínez 
 - **Carrera:** Ingeniería de sistemas
